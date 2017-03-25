@@ -9,6 +9,7 @@
 - **[`The Daily WTF`](http://thedailywtf.com/)**
 - **[`V8 JavaScript Engine`](https://v8project.blogspot.com)**
 - **[`The Twitter Engineering Blog`](https://blog.twitter.com/engineering)**
+- **[Several People Are Coding: The Slack Engineering Blog](https://slack.engineering/)**
 - **[`The Netflix Tech Blog`](http://techblog.netflix.com/)**
 - **[`Google Developers Blog`](https://developers.googleblog.com/)**
 - **[`Google Research Blog`](https://research.googleblog.com/)**
